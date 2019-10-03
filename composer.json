@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/magento_easy_lightbox",
+    "name": "OpenMageModuleFostering\/magento_easy_lightbox",
     "type": "magento-module",
     "license": "Creative-Commons-License-",
     "homepage": "",
     "description": "Magento Easy Lightbox Community Module",
     "authors": [
-    {
-        "name": "TemplatesMaster",
-        "email": "support@templates-master.com"
-    }
-],
+        {
+            "name": "TemplatesMaster",
+            "email": "support@templates-master.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
